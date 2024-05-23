@@ -16,7 +16,7 @@ class BankAccount {
         this.transactionHistory = new ArrayList<>();
         this.transactionHistory.add("Account created with balance: " + initialBalance);
     }
- 
+
     public String getAccountNumber() {
         return accountNumber;
     }
