@@ -10,7 +10,7 @@ This app will replicate a bank and all its functionalities from creating an acco
 - Password Validation
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/yFa7JiHaXhg)
 
 # Development Environment
 
